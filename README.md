@@ -1,3 +1,4 @@
+![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/Ashokgehlot318/Ashokgehlot318/assets/118416828/bfe99612-965a-4f04-b873-25ddb3590e6f)
 <h1 align="center">Hi 👋, I'm Ashok Gehlot</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
 
@@ -13,7 +14,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="80" height=![Navy Blue Geometric Technology LinkedIn Banner (1)](https://github.com/Ashokgehlot318/Ashokgehlot318/assets/118416828/7de4029d-9f15-4d51-98ee-c563bdd78e64)
+"80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a> </p>
