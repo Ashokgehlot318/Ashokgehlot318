@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashok Gehlot</h1>
 <h3 align="center">A passionate MERN STACK developer</h3>
 
+<img algin="right" width="400" height="400" alt="Coding" src="https://github.com/Ashokgehlot318/Ashokgehlot318/assets/118416828/09c9cbe8-9a3e-4bd2-b321-6619fd9161c4">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokgehlot318&label=Profile%20views&color=0e75b6&style=flat" alt="ashokgehlot318" /> </p>
 
 <h3 align="left">Connect with me:</h3>
