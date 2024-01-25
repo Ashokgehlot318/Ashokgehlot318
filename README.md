@@ -31,11 +31,12 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a>
  
+<hr>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokgehlot318&show_icons=true&locale=en&layout=compact" alt="ashokgehlot318" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ashokgehlot318&show_icons=true&locale=en" alt="ashokgehlot318" /></p>
-<br/>
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ashokgehlot318&" alt="ashokgehlot318" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=ashokgehlot318&show_icons=true&locale=en" alt="ashokgehlot318" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashokgehlot318&show_icons=true&locale=en&layout=compact" alt="ashokgehlot318" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=ashokgehlot318&" alt="ashokgehlot318" /></p>
+
 
 
